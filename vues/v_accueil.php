@@ -3,7 +3,7 @@
 		<div class="col text-center" style="margin-top:100px">
 			<div id="accueil">
 			<br/>
-			<span style="font-family: Vladimir Script; font-size:32pt">Besoin de médicaments ?<br/>
+			<span style="font-family: Vladimir Script; font-size:32pt; color : #630A9C ;">Besoin de médicaments ?<br/>
 			Venez vous approvisionner directement en ligne !
 			</div>
 		</div>
