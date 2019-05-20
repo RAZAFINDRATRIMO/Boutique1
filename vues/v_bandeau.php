@@ -7,9 +7,10 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-<div class="col-md-4 offset-1">
-			<img src="images/LaBoutique.png" width="250px"	alt="Boutique" title="Boutique"/>
-		</div>
+<div class="col-md-7">
+			<img src="images/LaBoutique.png" width="250px"	alt="Boutique" title="Boutique"/><img src="images/gsb.png" width="200px"	alt="Gsb" title="Gsb"/>	
+</div>
+
 <div class="container">
 		<div class="col-md-5">
 			<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
@@ -23,9 +24,6 @@
 						</li>
 						<li class="nav-item">
 							<a class="nav-link js-scroll-trigger" href="index.php?uc=gererPanier&action=voirPanier"><b>Voir son panier</b></a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link js-scroll-trigger" href="index.php?uc=administrer&action=connection"><b>Administrer</b></a>
 						</li>
 					</ul>
 				</div>

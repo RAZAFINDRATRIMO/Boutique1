@@ -23,9 +23,6 @@ switch($uc)
 	case 'gererPanier' :
 					include("c_gestionPanier.php");
 					break; 
-	case 'administrer' :
-					include("c_gestionMedicaments.php");
-					break; 
 }
 include("vues/v_pied.php") ;
 ?>
